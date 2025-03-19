@@ -1,0 +1,29 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
+
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore configuration files (API keys, credentials)
+configs/config.yaml
+!configs/config.yaml.example
+
+# Ignore IDE & system files
+.idea/
+.DS_Store
+.vscode/
+
+# Ignore installed dependencies (only track `requirements.txt`)
+*.egg-info/
+
+# Ignore results folder
+results/

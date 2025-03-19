@@ -1,0 +1,6 @@
+pandas
+drain3
+groq
+pyyaml
+matplotlib
+numpy

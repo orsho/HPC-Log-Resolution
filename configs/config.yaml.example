@@ -1,0 +1,2 @@
+log_file_path: "data/HPC.log"
+groq_api_key: "your_api_key_here"
