@@ -24,6 +24,3 @@ configs/config.yaml
 
 # Ignore installed dependencies (only track `requirements.txt`)
 *.egg-info/
-
-# Ignore results folder
-results/
